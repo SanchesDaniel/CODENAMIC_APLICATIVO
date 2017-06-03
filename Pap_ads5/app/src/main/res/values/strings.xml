@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ta na Mão</string>
+    <string name="mainActivity_login">Login</string>
+    <string name="mainActivity_email">Digite o seu e-mail</string>
+    <string name="mainActivity_senha">Digite a sua senha</string>
+    <string name="mainActivity_entrar">ENTRAR</string>
+    <string name="mainActivity_criar_conta">CRIAR CONTA</string>
+    <string name="cadastro_nome">Nome:</string>
+    <string name="cadastro_email">E-mail:</string>
+    <string name="cadastro_cpf">CPF:</string>
+    <string name="cadastro_data_nascimento">Data de Nascimento:</string>
+    <string name="cadastro_telefone">Telefone:</string>
+    <string name="cadastro_rua">Rua:</string>
+    <string name="cadastro_bairro">Bairro:</string>
+    <string name="cadastro_cidade">Cidade:</string>
+    <string name="cadastro_estado">Estado:</string>
+    <string name="cadastro_cadastrar">Cadastrar</string>
+    <string name="cadastro_cancelar">Cancelar</string>
+    <string name="registro_salvo">Usuario Salvo</string>
+</resources>
